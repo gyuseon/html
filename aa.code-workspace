@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "\\\\192.168.0.10\\박진경t\\요구사항분석 및 화면설계\\images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTMLSOURCE"
+  }
+}
